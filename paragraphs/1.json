@@ -1,0 +1,10 @@
+{ 
+	"title": "Test",
+	"text": "asdasdasdads",
+	"options":
+		[
+			{"text": "jeden", "action": "a1"},
+			{"text": "dwa", "action": "aw"}
+		],
+	"color": "#AA2245"
+}
